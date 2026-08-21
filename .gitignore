@@ -1,0 +1,23 @@
+.cursor/
+.claude/
+.idea/
+.DS_Store
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+
+# Local tool state and generated files
+.ai/
+.codex/
+coverage/
+dist/
+build/
+target/
+.DS_Store

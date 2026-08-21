@@ -1,0 +1,5 @@
+# label     path relative to home     strategy
+cursor      .cursor/skills            auto
+claude      .claude/skills            auto
+codex       .codex/skills             auto
+gemini      .gemini/skills            auto
